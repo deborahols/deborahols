@@ -1,6 +1,6 @@
 # Olá, eu sou a Deborah 👋
 
-👩🏽‍💻 Sou Analista de Testes desde 2021, quando me apaixonei pela qualidade de software.
+👩🏽‍💻 Sou Analista de Testes desde 2021, quando me apaixonei pela qualidade de software. <br>
 👩🏽‍🎓Formada em Sistemas de Informação em 2023.
 🎓 Pós graduada no curso Engenharia de Qualidade e Teste de Software em 2024.
 🎖️ Certificada pela ISTQB com a CTFL em 2025.
