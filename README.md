@@ -4,6 +4,6 @@
 👩🏽‍🎓 Formada em Sistemas de Informação em 2023 (UNIVAG).<br>
 🎓 Pós graduada no curso Engenharia de Qualidade e Teste de Software em 2024 (PUC Minas).<br>
 🎖️ Certificada com a CTFL (ISTQB) em 2025.<br>
-🚀 E aprender algo novo nunca é dispensável.
+🚀 Estudar, Estudar & Estudar.
 
 
